@@ -20,7 +20,6 @@ I’m currently learning CompTIA Security+ and planning to achieve it by 02/2022
 - Amazon Web Services  
 - Computer Forensics 
 
-# 📫 How to reach me: Sulalabsi@gmail.com OR www.linkedin.com/in/sultan-alabsi
+📫 How to reach me: Sulalabsi@gmail.com OR www.linkedin.com/in/sultan-alabsi
 
-# ⚡ Fun fact: I will keep on learning, until I no longer can learn 
-![image](https://user-images.githubusercontent.com/83693029/149936724-5b560535-515e-4e80-8120-12e03284af50.png)
+⚡ Fun fact: I will keep on learning, until I no longer can learn :) 
