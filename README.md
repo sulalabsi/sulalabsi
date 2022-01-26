@@ -4,7 +4,7 @@ I'm a Cybersecurity enthusiast who’s inspired by the world of technology and s
 
 I recently graduated from Swinburne University of Technology in Australia with a bachelor’s degree in Computer Science focused on Cybersecurity. 
 
-I’m currently learning CompTIA Security+ and planning to achieve it by 02/2022
+I’m currently learning Cisco Certified Network Associate (CCNA) and planning to achieve it by end of 02/2022
 
 **Certifications** 
 - Cybersecurity Essentials - Cisco 
